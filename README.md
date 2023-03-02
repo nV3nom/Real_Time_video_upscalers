@@ -10,3 +10,4 @@ mpv scaler uses AMD's FSR
 they are vanilla that uses inbuilt MPV options for best picture quality
 # Note
 only for windows
+can check if it,s working or not by pressing ctrl+i then pressing 2
